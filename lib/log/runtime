@@ -1,0 +1,9 @@
+----------------------------------------------------------------------------
+Nightmare IVr6Rus (FluffOS v2.23-ds03) starting up on Linux - Wed Aug 29 19:26:13 2018
+
+
+/secure/daemon/master.c line 90: syntax error
+/secure/daemon/master.c line 90: Illegal LHS
+No error handler for error: *Error in loading object '/secure/daemon/master'
+program: (none), object: (none), file: (none)
+The simul_efun (/secure/sefun/sefun) and master (/secure/daemon/master) objects must be loadable.
